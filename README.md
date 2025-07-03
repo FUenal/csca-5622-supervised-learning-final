@@ -1,11 +1,4 @@
 # Deep learning vs. XGBoost on network traffic data  
-### CSCA5622 Unsupervised Learning Final Project
-
-**Author:** Fatih Uenal 
-
-**Course:** CU Boulder MSc Computer Science & AI  
-
-**Date:** 04.07.2025
 
 ---
 
@@ -220,4 +213,21 @@ I am using the ***data_cleanup.py*** script from the [Basnet and colleagues proj
 |                          03-02-2018                          | 
 | ![](<./plots/confusion_matrices/result02032018_cm.png>) | 
 
+---
+
+## Author 
+
+### CSCA5622 Supervised Machine Learning Final Project
+
+**Author:** Fatih Uenal 
+
+**Course:** 🎓 MSc Computer Science & AI, CU Boulder
+
+**Date:** 04.07.2025
+
+🌐 Webpage: https://dataiq.netlify.app/
+
+🔗 LinkedIn: https://www.linkedin.com/in/fatih-uenal/
+
+📊 Kaggle Notebook: https://www.kaggle.com/code/fatihuenal/csca-5632-unsupervised-algorithms-final-2
 
