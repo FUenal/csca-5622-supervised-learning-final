@@ -1,4 +1,13 @@
-# Deep learning and Machine learning for network threat detection
+# Deep learning vs. XGBoost on network traffic data  
+### CSCA5622 Unsupervised Learning Final Project
+
+**Author:** Fatih Uenal 
+
+**Course:** CU Boulder MSc Computer Science & AI  
+
+**Date:** 04.07.2025
+
+---
 
 I use the fast.ai deep learning framework for one of its newest applications: classification on tabular data. I compare its performance against the incumbent best tool in the field, gradient boosting with XGBoost, as well as against various scikit-learn classifiers in detecting network intrusion traffic and classifying common network attack types (e.g., FTP-BruteForce, DOS-GoldenEye, BruteForce-XSS, SQL-Injection, Infiltration, BotAttack). 
 
